@@ -18,8 +18,8 @@ const countdown = document.getElementById("countdown");
 const numeri = document.getElementById("numeri");
 const punteggio = document.getElementById("punteggio");
 
-let count = 3;
-let numeriDaGenerare = 1;
+let count = 30;
+let numeriDaGenerare = 5;
 
 // Creo un variabile che inserisca dentro un array vuoto dei numeri
 //  randomici da 1 a 10
